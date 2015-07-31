@@ -69,19 +69,23 @@ div:nth-of-type(1) {
 
 }
 div:nth-of-type(2) {
-   width: 450px;
+   width: 422px;
    max-height: 500px;
    float:left;
 
 
+
+
 }
 div:nth-of-type(3) {
-   width: 800px;
+   width: 828px;
    max-height: 500px;
    float:right;
 
-}
 
+
+}
+ß
 }
 .list{
    font-size: .6rem;
