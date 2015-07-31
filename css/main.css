@@ -1,0 +1,92 @@
+@import url(http://fonts.googleapis.com/css?family=Raleway:400,300,700);
+body {
+   font-family: 'Raleway', sans-serif;
+   letter-spacing: 1px;
+   background-color: black;
+   color: white;
+   background-image: url(../img/arvopartbkgd.jpg);
+   background-repeat: no-repeat;
+
+}
+h3 {
+   width: 380px;
+   margin-left: 50px;
+   margin-top: -910px;
+   margin-right: 45px;
+   margin-bottom: 600px;
+   font-weight: lighter;
+   font-size: .66em;
+   line-height: 1.6;
+
+
+}
+#header {
+   padding: 30px;
+   padding-top: 25px;
+   margin-left: 13px;
+   margin-top: 5px;
+   font-size: 60px;
+
+}
+#author {
+   line-height: 2.3;
+}
+#songs {
+   margin-top: 10px;
+   margin-bottom: 450px;
+   margin-left: 840px;
+   font-size: 1.2em;
+   line-height: 1.4;
+}
+.songname {
+   font-weight: bold;
+}
+.songbyline {
+   padding-left: 22px;
+   font-size: .8rem;
+}
+
+div:nth-of-type(1) {
+   margin-left: 30px;
+}
+
+#reviews {
+   background-color: rgba(0,0,0,0.5);
+   padding:6px;
+   font-size: 1.4em;
+   padding-left: 7px;
+}
+.review{
+   padding: 10px;
+   background-color: rgba(0,0,0,0.5);
+   font-size: .7rem;
+   line-height: 15px;
+
+
+}
+.list{
+   font-size: .6rem;
+}
+div:nth-of-type(1) {
+   margin-top: 300px;
+   margin-bottom: 10px;
+}
+
+/* unvisited link */
+a:link {
+    color: white;
+}
+
+/* visited link */
+a:visited {
+    color: rgba(255,0,0,.8);
+}
+
+/* mouse over link */
+a:hover {
+    color: rgba(255,0,0,.8);
+}
+
+a {
+   text-decoration: none;
+}
