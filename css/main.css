@@ -17,6 +17,7 @@ h3 {
    font-size: .75em;
    line-height: 1.7;
    padding-left: 10px;
+   float;
 
 
 }
@@ -53,16 +54,33 @@ div:nth-of-type(1) {
 
 #reviews {
    background-color: rgba(0,0,0,0.5);
-   padding:6px;
-   font-size: 1.4em;
-   padding-left: 7px;
+   padding:10px;
+   font-size: 1.6em;
+   padding: 20px;
+   margin: 20px;
 }
 .review{
-   padding: 10px;
+   padding: 20px;
    background-color: rgba(0,0,0,0.5);
    font-size: .7rem;
    line-height: 15px;
+   margin:20px;
 
+
+}
+div:nth-of-type(2) {
+   width: 450px;
+   max-height: 500px;
+   float:left;
+
+
+}
+div:nth-of-type(3) {
+   width: 800px;
+   max-height: 500px;
+   float:right;
+
+}
 
 }
 .list{
