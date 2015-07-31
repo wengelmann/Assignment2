@@ -6,22 +6,24 @@ body {
    background: url(../img/arvopartbkgd.jpg) no-repeat center fixed; ;
 
 }
+
 h3 {
    width: 380px;
    margin-left: 500px;
-   margin-top: -750px;
+   margin-top: -765px;
    margin-right: 42px;
    margin-bottom: 600px;
    font-weight: normal;
-   font-size: .7em;
+   font-size: .75em;
    line-height: 1.7;
+   padding-left: 10px;
 
 
 }
 #header {
-   padding: 30px;
-   padding-top: 25px;
-   margin-left: 600px;
+   padding-bottom: 20px;
+   padding-top: 40px;
+   margin-left: 640px;
    margin-top: 5px;
    font-size: 60px;
 
@@ -30,11 +32,12 @@ h3 {
    line-height: 2.3;
 }
 #songs {
-   margin-top: 10px;
+   margin-top: 0px;
    margin-bottom: 450px;
-   margin-left: 840px;
+   margin-left: 810px;
    font-size: 1.2em;
    line-height: 1.4;
+   padding-top: 0px;
 }
 .songname {
    font-weight: bold;
