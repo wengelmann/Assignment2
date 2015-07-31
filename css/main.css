@@ -69,14 +69,14 @@ div:nth-of-type(1) {
 
 }
 div:nth-of-type(2) {
-   width: 422px;
+   width: 416px;
    max-height: 500px;
    float:left;
    line-height: 15px;
 
 }
 div:nth-of-type(3) {
-   width: 828px;
+   width: 834px;
    max-height: 500px;
    float:right;
    line-height: 15px;
