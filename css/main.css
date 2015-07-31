@@ -2,20 +2,18 @@
 body {
    font-family: 'Raleway', sans-serif;
    letter-spacing: 1px;
-   background-color: black;
    color: white;
-   background-image: url(../img/arvopartbkgd.jpg);
-   background-repeat: no-repeat;
+   background: url(../img/arvopartbkgd.jpg) no-repeat center fixed; ;
 
 }
 h3 {
    width: 380px;
-   margin-left: 60px;
-   margin-top: -900px;
+   margin-left: 500px;
+   margin-top: -750px;
    margin-right: 42px;
    margin-bottom: 600px;
-   font-weight: lighter;
-   font-size: .67em;
+   font-weight: normal;
+   font-size: .7em;
    line-height: 1.7;
 
 
@@ -23,7 +21,7 @@ h3 {
 #header {
    padding: 30px;
    padding-top: 25px;
-   margin-left: 13px;
+   margin-left: 600px;
    margin-top: 5px;
    font-size: 60px;
 
