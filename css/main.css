@@ -73,21 +73,7 @@ div:nth-of-type(1) {
 
 
 }
-div:nth-of-type(2) {
-   width: 416px;
-   max-height: 500px;
-   float:left;
-   line-height: 15px;
 
-}
-div:nth-of-type(3) {
-   width: 834px;
-   max-height: 500px;
-   float:right;
-   line-height: 15px;
-   clear: left;
-   clear: bottom;
-}
 
 .list{
    font-size: .6rem;
