@@ -63,10 +63,13 @@ h2 {
    background-color: rgba(0,0,0,0.5);
    margin-left: 20px;
    margin-right: 20px;
-   margin-bottom: 15px;
+   margin-bottom: 10px;
 }
 .review{
-   padding: 20px;
+   padding-left: 20px;
+   padding-right: 20px;
+   padding-bottom: 10px;
+   padding-top: 10px;
    background-color: rgba(0,0,0,0.5);
    font-size: .7rem;
    line-height: 15px;
@@ -82,9 +85,10 @@ p:nth-of-type(8) {
 div:nth-of-type(2) {
    width: 30%;
    float:left;
+
 }
 div:nth-of-type(3) {
-   width: 55%;
+   width: 57%;
    float: right;
 
 }
